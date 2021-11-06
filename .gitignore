@@ -20,7 +20,7 @@ app.db
 .vscode/
 venv/
 .venv*
-
+.python-version
 # Static files at 'app/static/vendor'
 app/static/vendor
 node_modules
